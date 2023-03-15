@@ -1,5 +1,5 @@
 {
-  "name": "@axelhzf/graphql-pokemon-server",
+  "name": "api",
   "description": "Get information of a Pokémon with GraphQL",
   "version": "1.0.3",
   "repository": "https://github.com/axelhzf/graphql-pokemon-server",
@@ -10,7 +10,7 @@
     "url": "http://github.com/axelhzf"
   },
   "scripts": {
-    "start": "node src/index.js"
+    "dev": "node src/index.js"
   },
   "bin": "src/index.js",
   "dependencies": {
