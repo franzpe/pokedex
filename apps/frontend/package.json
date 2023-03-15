@@ -18,5 +18,14 @@
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "typescript": "4.9.5"
+  },
+  "overrides": {
+    "@carbon/react": {
+      "react": "^18",
+      "react-dom": "^18"
+    }
+  },
+  "devDependencies": {
+    "sass": "^1.59.3"
   }
 }
